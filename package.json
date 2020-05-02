@@ -1,0 +1,15 @@
+{
+  "name": "emojinator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "lodash": "^4.17.15",
+    "slack": "^11.0.2"
+  },
+  "scripts": {
+    "dl": "node index.js",
+    "test": "node test.js"
+  }
+}
